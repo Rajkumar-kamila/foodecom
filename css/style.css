@@ -4659,7 +4659,7 @@ blockquote cite {
 
 /* Contacts */
 .contacts_wrap_inner {
-	padding:5.5em 0 2.25em;
+	padding:2.5em 0 2.25em;
 	text-align:center;
 }
 .contacts_wrap .logo {
@@ -4714,7 +4714,7 @@ footer.twitter_wrap .sc_section_overlay {
 
 /* Copyright area */
 .copyright_wrap_inner {
-	padding: 4.4em 0;
+	padding: 1.4em 0;
 	overflow:hidden;
 }
 .copyright_wrap p {
